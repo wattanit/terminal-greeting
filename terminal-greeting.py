@@ -1,5 +1,8 @@
 import datetime
 import codecs
+import warnings
+
+warnings.filterwarnings("ignore")
 
 EVENTS = {
     "christmas": {
